@@ -4,6 +4,10 @@
 - 对X和Y做了比较多的特征工程
 - 快速形成一个baseline
 
+### Baseline1-修正版
+- 基于Baseline1的代码做了更多详细的注释
+- Baselin1的某些变量存在先后重叠的小问题，将其修正
+
 ### Baseline2
 - 省去数据探索和加载,直接读取baseline1形成的h5文件
 - 对于x和y做了更多的特征工程,如y/x,x/y
